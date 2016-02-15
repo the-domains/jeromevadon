@@ -1,0 +1,28 @@
+name: Jérôme VADON
+favicon: null
+layout_spectrum: 0.6236967695876956
+typography_spectrum: 0.8096019562799484
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.009870847687125206
+  lightness: 0.34595654904842377
+  saturation: 0.4971372557338327
+  rhythmicContrast: 0.17757317866198719
+purpose: []
