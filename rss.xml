@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jérôme VADON]]></title>
+        <description><![CDATA[Jérôme VADON]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 20:10:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to the Grid</p>]]></description>
+            <link>undefined34e49cd5-7f8a-49fb-8d54-58f8a5a6dc76/index.html</link>
+            <guid isPermaLink="false">34e49cd5-7f8a-49fb-8d54-58f8a5a6dc76</guid>
+            <pubDate>Mon, 15 Feb 2016 20:10:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
